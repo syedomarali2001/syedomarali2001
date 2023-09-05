@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi there, my name is Omar
+</h1>
+<p align="center"> 
+  <a href="https://git.io/typing-svg%22%3E<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;YorkU+Computer+Science+Student;Computer+Security+Specialist" alt="Typing SVG" /></a> </h1>
+</p>
+
 I'm a Computer Science student at York University. My current academic goal is to build a solid foundation in various subsets of Computer Security so that I can eventually specialize in Digital Forensics. My hope is to implement my knowledge and skills to make the world a better place. 
 <p align="left">
       <a href="https://www.linkedin.com/in/omarsyedali/">
