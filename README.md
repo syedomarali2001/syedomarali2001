@@ -17,9 +17,6 @@ My background includes a **16-month co-op at the Independent Electricity System 
   <a href="https://www.linkedin.com/in/omarsyedali/">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/syed.omar.ali/">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
