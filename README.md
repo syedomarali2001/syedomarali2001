@@ -11,7 +11,7 @@
 
 I'm a **Computer Science student at York University** (expected graduation: **December 2028**) with experience in Python development, data analysis, and software evaluation. I'm interested in **Quantitative Analyst, Quantitative Developer, and Risk Analytics** co-op opportunities, particularly where programming, statistics, and financial markets intersect.
 
-My background includes a **16-month co-op at the Independent Electricity System Operator (IESO)** and work evaluating AI-generated code. I've also built and deployed interactive applications focused on **portfolio risk, economic research, historical analysis, and model validation**.
+My background includes a **16-month co-op at the Independent Electricity System Operator (IESO)** and work evaluating AI-generated code at DataAnnotation. I've also built and deployed interactive applications focused on **portfolio risk, economic research, historical analysis, and model validation**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omarsyedali/">
@@ -83,7 +83,8 @@ An interactive Python/Streamlit application for building investment portfolios, 
 - Explores three portfolio optimization approaches: **Growth, Balanced, and Stability**.
 - Includes ETF exposure analysis, dividend projections, stock valuation, and interactive risk dashboards.
 - Uses a modular Python backend with **automated tests and GitHub Actions**.
-
+  
+[![Live App](https://img.shields.io/badge/Try_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://portfolioriskengine.streamlit.app/)
 [![Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedomarali2001/PortfolioRiskEngine)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -126,13 +127,3 @@ A Python/Streamlit dashboard for exploring the U.S. economy today and reconstruc
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
-
-### 📊 Stats
-
-<!-- Optional: Uncomment to show your GitHub activity statistics. -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedomarali2001&show_icons=true&theme=tokyonight) -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Waving gradient footer" width="100%" />
-</p>
-
